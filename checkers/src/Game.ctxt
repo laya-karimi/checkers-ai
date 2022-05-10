@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Game
+comment1.params=
+comment1.target=Game()
+comment10.params=
+comment10.target=void\ play()
+comment2.params=c
+comment2.target=Game(char[][])
+comment3.params=
+comment3.target=Checker[][]\ getBoard()
+comment4.params=start\ end\ moves
+comment4.target=void\ makeMove(int,\ int,\ java.util.LinkedList)
+comment5.params=row1\ col1
+comment5.target=java.util.LinkedList\ multiJump(int,\ int)
+comment6.params=player
+comment6.target=java.util.LinkedList\ legalMoves(int)
+comment7.params=r1\ c1\ r2\ c2\ r3\ c3
+comment7.target=boolean\ canJump(int,\ int,\ int,\ int,\ int,\ int)
+comment8.params=fr\ fc\ tr\ tc\ player
+comment8.target=boolean\ canMove(int,\ int,\ int,\ int,\ int)
+comment9.params=
+comment9.target=java.lang.String\ playerName()
+numComments=11
